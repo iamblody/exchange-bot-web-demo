@@ -1,0 +1,17 @@
+2025-07-05 15:13:36,872 - ERROR - Failed to load settings.json: [Errno 2] No such file or directory: 'settings.json'
+2025-07-05 15:13:36,874 - ERROR - Cannot run without settings.
+2025-07-05 15:13:36,876 - ERROR - Cannot run without settings.
+2025-07-05 15:14:29,729 - ERROR - Failed to load settings.json: [Errno 2] No such file or directory: 'settings.json'
+2025-07-05 15:14:29,731 - ERROR - Cannot run without settings.
+2025-07-05 15:29:58,981 - ERROR - Failed to load settings.json: [Errno 2] No such file or directory: 'settings.json'
+2025-07-05 15:29:58,981 - ERROR - Cannot run without settings.
+2025-07-05 15:33:39,844 - ERROR - Failed to load settings.json: [Errno 2] No such file or directory: 'settings.json'
+2025-07-05 15:33:39,844 - ERROR - Cannot run without settings.
+2025-07-05 17:10:30,494 - ERROR - Failed to load settings.json: [Errno 2] No such file or directory: 'settings.json'
+2025-07-05 17:10:30,495 - ERROR - Cannot run without settings.
+2025-07-05 17:12:45,386 - ERROR - Failed to load settings.json: [Errno 2] No such file or directory: 'settings.json'
+2025-07-05 17:12:45,386 - ERROR - Cannot run without settings.
+2025-07-05 17:15:23,033 - ERROR - Failed to load settings.json: [Errno 2] No such file or directory: 'settings.json'
+2025-07-05 17:15:23,034 - ERROR - Cannot run without settings.
+2025-07-05 17:17:51,154 - INFO - Automation started...
+2025-07-05 17:17:52,744 - ERROR - Error during daily task: (334, b'UGFzc3dvcmQ6')
